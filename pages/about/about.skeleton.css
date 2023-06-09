@@ -1,0 +1,52 @@
+/*
+此文件为开发者工具生成，生成时间: 2023/3/27下午5:42:18
+
+在 /Users/yinfengrui/Documents/代码/lingmu-weixing/pages/about/about.wxss 中引入样式
+```
+@import "./about.skeleton.css";
+```
+
+更多详细信息可以参考文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/skeleton.html
+*/
+.sk-transparent {
+    color: transparent !important;
+}
+.sk-text-22-7273-80 {
+    background-image: linear-gradient(transparent 22.7273%, #eeeeee 0%, #eeeeee 77.2727%, transparent 0%) !important;
+    background-size: 100% 44rpx;
+    position: absolute !important;
+}
+.sk-text {
+    background-origin: content-box !important;
+    background-clip: content-box !important;
+    background-color: transparent !important;
+    color: transparent !important;
+    background-repeat: repeat-y !important;
+}
+.sk-text-20-3704-268 {
+    background-image: linear-gradient(transparent 20.3704%, #eeeeee 0%, #eeeeee 79.6296%, transparent 0%) !important;
+    background-size: 100% 54rpx;
+    position: relative !important;
+}
+.sk-text-28-3333-2 {
+    background-image: linear-gradient(transparent 28.3333%, #eeeeee 0%, #eeeeee 71.6667%, transparent 0%) !important;
+    background-size: 100% 60rpx;
+    position: relative !important;
+}
+.sk-text-28-3333-103 {
+    background-image: linear-gradient(transparent 28.3333%, #eeeeee 0%, #eeeeee 71.6667%, transparent 0%) !important;
+    background-size: 100% 60rpx;
+    position: relative !important;
+}
+.sk-image {
+    background: #efefef !important;
+}
+.sk-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: transparent;
+}

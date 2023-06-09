@@ -1,0 +1,16 @@
+{
+    "id": "izhar-faka",
+    "name": "izhar发卡小程序",
+    "displayName": "izhar发卡小程序",
+    "version": "1.0",
+    "description": "小程序发卡系统/多种卡密领取模式",
+    "keywords": [
+        "发卡,卡密"
+    ],
+    "dcloudext": {
+        "category": [
+            "uni-app前端模板",
+            "uni-app前端项目模板"
+        ]
+    }
+}

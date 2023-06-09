@@ -1,0 +1,49 @@
+@import './category.skeleton.css'; /* pages/category/category.wxss */
+/* 头部信息 */
+.category-title {
+    font-size: 60rpx;
+    font-family: 'AlimamaShuHeiTi-Bold';
+    text-align: center;
+    margin-top: 90rpx;
+}
+.category-desrc {
+    width: 60%;
+    margin: 40rpx auto;
+    text-align: center;
+    font-size: 26rpx;
+}
+
+.category-lists-flex {
+    display: flex;
+    margin-top: 80rpx;
+    padding: 28rpx;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.category-lists-item {
+    background-color: #f9f9f9;
+    border-radius: 40rpx;
+    height: 400rpx;
+    padding: 44rpx;
+    width: 35%;
+    flex-shrink: 0;
+    margin-bottom: 28rpx;
+    position: relative;
+}
+.category-lists-title {
+    font-size: 40rpx;
+    font-family: 'AlimamaShuHeiTi-Bold';
+}
+.category-lists-dsrc {
+    margin-top: 20rpx;
+    color: #adadad;
+    font-size: 28rpx;
+}
+.category-lists-img {
+    height: 250rpx;
+    width: 250rpx;
+    position: absolute;
+    bottom: 44rpx;
+    left: 50%;
+    transform: translateX(-50%);
+}

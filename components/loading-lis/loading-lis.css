@@ -1,0 +1,17 @@
+/* components/loading-lis/loading-lis.wxss */
+.loading-icon {
+    height: 80rpx;
+    height: 80rpx;
+    margin: 30rpx auto;
+}
+
+.loading-text {
+    color: #8a8a8a;
+    font-size: 26rpx;
+    text-align: center;
+    padding: 40rpx;
+}
+.fengrui-img {
+    height: 100%;
+    width: 100%;
+}

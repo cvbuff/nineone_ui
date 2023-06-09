@@ -1,0 +1,1 @@
+<view style="height:100%;"><block><block wx:if="{{listsLoading}}"><view class="loading-icon"><image class="fengrui-img" src="/static/images/loading.gif" mode="aspectFit"></image></view></block><view class="loading-text">到底咯 (,,•́ . •̀,,)</view></block></view>

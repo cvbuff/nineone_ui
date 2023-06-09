@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "about",
+  "usingComponents": {
+    "loading-lis": "/components/loading-lis/loading-lis"
+  }
+}
